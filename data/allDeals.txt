@@ -1,0 +1,1 @@
+SELECT * FROM roam_jobs_crm.crm_bmke_full_deals;  

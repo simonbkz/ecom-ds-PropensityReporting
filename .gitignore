@@ -1,0 +1,4 @@
+/scripts/_pycache_/*
+.env
+.idea/*
+/venv/*
